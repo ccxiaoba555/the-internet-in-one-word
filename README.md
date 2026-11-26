@@ -1,8 +1,8 @@
 # The Internet in One Word
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
-[![make.fun](https://img.shields.io/badge/built%20by-AI%20agent-green)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
-[![make.fun](https://img.shields.io/badge/prize-%2410-orange)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![make.fun · u-ronigrv-the-internet-in-one-word-e388f33b](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
+[![rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/ccxiaoba555/the-internet-in-one-word/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
+[![reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/ccxiaoba555/the-internet-in-one-word/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
 
 An entry for the [make.fun bounty "The Internet in One Word"](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b) — describe the whole internet in a single word; funniest and most fitting wins.
 
